@@ -6,6 +6,6 @@ Developed an interactive Excel dashboard to visually showcase key energy metrics
 
 Screenshots of the dashboard below (Refer to the Excel file for the complete Dashboard along with the granular data) 
 
-<img width="810" alt="Dashboard Screenshot - Renewable Energy Dashboard" src="https://github.com/Urvashi17analyst/Renewable-Energy-Analysis/assets/135556127/5a9e7c52-e645-47c9-859f-9ab3e7227250">
+<img width="782" alt="Dashboard Screenshot - Renewable Energy Dashboard" src="https://github.com/Urvashi17analyst/Renewable-Energy-Analysis/assets/135556127/5a9e7c52-e645-47c9-859f-9ab3e7227250">
 
 <img width="782" alt="Dashboard Screenshot - Renewable Energy Regional Focus" src="https://github.com/Urvashi17analyst/Renewable-Energy-Analysis/assets/135556127/125fa639-c9a6-4cce-980d-0617e76a3883">
